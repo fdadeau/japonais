@@ -83,6 +83,7 @@ aside.montrer {
 }
 aside input {
     font-size: 2vw;
+    width: 3vw;
 }
 aside p {
     margin: 6vh 0;
