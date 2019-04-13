@@ -238,10 +238,10 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         var jp2fr = document.querySelector("input[name=radJF]:checked").value == "jp2fr";
         document.getElementById(jp2fr ? "francais" : "japonais").classList.add("cache");
         
-        if (current.jap1.length > 8) {
+        if (current.jap1.length >= 8) {
             document.querySelector(".jap").style.fontSize = "10vw";
         }
-        if (current.jap1.length > 10) {
+        if (current.jap1.length >= 10) {
             document.querySelector(".jap").style.fontSize = "8vw";
         }
         
