@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
             traitement(this.responseText);   
         }
     };
-    xhttp.open("get", "lecons.csv", true);
+    xhttp.open("get", "./js/lecons.csv", true);
     xhttp.send();
     
     var data = [];

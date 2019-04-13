@@ -7,6 +7,10 @@ body {
     padding: 0;
     line-height: 1;
     font-family: helvetica, verdana, sans-serif;
+    background-image: url(../images/background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 main {    
     position: relative;
