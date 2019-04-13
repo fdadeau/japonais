@@ -27,6 +27,8 @@ document.addEventListener("DOMContentLoaded", function(_e) {
             "part" : "particules", 
             "expr" : "expressions" 
         };
+        
+       
         var min = 100; 
         var max = 0;
         var nbErrors = 0;
@@ -61,20 +63,27 @@ document.addEventListener("DOMContentLoaded", function(_e) {
                 lecon: tabLigne[4].trim()
             });
         });
-        document.getElementById("numLeconMin").setAttribute("min", min); 
-        document.getElementById("numLeconMin").setAttribute("max", max); 
-        document.getElementById("numLeconMax").setAttribute("min", min); 
-        document.getElementById("numLeconMax").setAttribute("max", max); 
-        document.getElementById("numLeconMin").setAttribute("value",min);
-        document.getElementById("numLeconMax").setAttribute("value", max);
         
+        if (!localStorage.getItem("params")) {
+            localStorage.setItem("params", JSON.stringify({ leconMin: min, 
+                                                            leconMax: max, 
+                                                            categories: Object.keys(allCategories), 
+                                                            syllabes: false })); 
+        }
+        
+        var params = localStorage.getItem("params");
+        params = JSON.parse(params);
         
         var html = "<table><tr>";
         var b = 0;
         for (var i in allCategories) {
             b++;
             var cat = allCategories[i];
-            html += "<td><input type='checkbox' checked id='cb_" + i + "' value='" + i + "'><label for='cb_" + i + "'>" + cat + "</label></td>";
+            html += "<td><input type='checkbox' id='cb_" + i + "' value='" + i + "'";
+            if (params.categories.indexOf(i) >= 0) {
+                html += " checked";   
+            }
+            html += "><label for='cb_" + i + "'>" + cat + "</label></td>";
             if (b % 2 == 0) {
                 html += "</tr><tr>";   
             }
@@ -82,6 +91,16 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         html += "</tr></table>";
         document.getElementById("categories").innerHTML = html;
         
+        
+        document.getElementById("numLeconMin").setAttribute("min", min); 
+        document.getElementById("numLeconMin").setAttribute("max", max); 
+        document.getElementById("numLeconMax").setAttribute("min", min); 
+        document.getElementById("numLeconMax").setAttribute("max", max); 
+        
+        document.getElementById("numLeconMin").setAttribute("value", params.leconMin);
+        document.getElementById("numLeconMax").setAttribute("value", params.leconMax);
+        document.getElementById("cbSyllabes").checked = params.syllabes;
+       
         if (nbErrors > 0) {
             alert("Erreurs lors du chargement des mots (voir console)");   
         }
@@ -156,7 +175,17 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         
         var allInputs = document.querySelectorAll("aside input");
         for (var i=0; i < allInputs.length; i++) {
-            allInputs[i].addEventListener("change", generer);   
+            allInputs[i].addEventListener("change", function() {
+                var params = JSON.parse(localStorage.getItem("params"));
+                params.leconMin = document.getElementById("numLeconMin").value;
+                params.leconMax = document.getElementById("numLeconMax").value;
+                params.syllabes = document.getElementById("cbSyllabes").checked;
+                params.categories = Object.keys(allCategories).filter(function(c) {
+                    return document.getElementById("cb_" + c).checked;
+                });
+                localStorage.setItem("params", JSON.stringify(params));
+                generer();
+            });   
         }
         
         generer();
@@ -179,7 +208,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         var newData = data.filter(function(e) {
             if (e.lecon < leconMin) return false;
             if (e.lecon > leconMax) return false;
-            return (cats[e.cat] == 1);
+            return (document.getElementById("cb_" + e.cat).checked);
         });
         
         document.getElementById("japonais").classList.remove("cache");
@@ -209,11 +238,11 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         var jp2fr = document.querySelector("input[name=radJF]:checked").value == "jp2fr";
         document.getElementById(jp2fr ? "francais" : "japonais").classList.add("cache");
         
-        if (current.jap1.length > 9) {
+        if (current.jap1.length > 8) {
             document.querySelector(".jap").style.fontSize = "10vw";
         }
-        if (current.jap1.length > 14) {
-            document.querySelector(".jap").style.fontSize = "9vw";
+        if (current.jap1.length > 10) {
+            document.querySelector(".jap").style.fontSize = "8vw";
         }
         
     }
