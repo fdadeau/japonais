@@ -136,17 +136,17 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         
         document.addEventListener("touchend", function(e) {
             var lastY = e.changedTouches[0].screenY;
-            if (lastY - touchStart.y > 100) {
+            if (lastY - touchStart.y > 50) {
                 cmdPanel(true);    
                 return;
             }
-            if (touchStart.y - lastY > 100) {
+            if (touchStart.y - lastY > 50) {
                 cmdPanel(false);
                 return;
             }   
             if (isPanelVisible()) return;
             var lastX = e.changedTouches[0].screenX;
-            if (touchStart.x - lastX > 100) {
+            if (touchStart.x - lastX > 50) {
                 cmdGenerer();
                 return;
             }
