@@ -130,6 +130,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         });
         var touchStart = {x: -1, y: -1};
         document.addEventListener("touchstart", function(e) {
+            e.preventDefault();
             touchStart.x = e.changedTouches[0].screenX;   
             touchStart.y = e.changedTouches[0].screenY;   
         }, false);
