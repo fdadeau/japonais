@@ -87,7 +87,7 @@ aside.montrer {
 }
 aside input {
     font-size: 2vw;
-    width: 3vw;
+    width: 4vw;
     color: black !important;
 }
 aside p {
@@ -133,12 +133,12 @@ aside p#categories label {
     display: inline;
     margin: 1vh 2vh;
 }
-aside button {
+aside .button {
     background-color: darkgrey;
     display: inline-block;
     border: none;
     text-align: center;
-    line-height: var(--taille);
+    line-height: calc(var(--taille) - 2px);
     padding: 0;
     box-sizing: border-box;
     width: var(--taille);

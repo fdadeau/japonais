@@ -187,8 +187,8 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         for (var i=0; i < allInputs.length; i++) {
             allInputs[i].addEventListener("change", function() {
                 var params = JSON.parse(localStorage.getItem("params"));
-                params.leconMin = document.getElementById("numLeconMin").value;
-                params.leconMax = document.getElementById("numLeconMax").value;
+                params.leconMin = 1*document.getElementById("numLeconMin").value;
+                params.leconMax = 1*document.getElementById("numLeconMax").value;
                 params.syllabes = document.getElementById("cbSyllabes").checked;
                 params.categories = Object.keys(allCategories).filter(function(c) {
                     return document.getElementById("cb_" + c).checked;
@@ -197,15 +197,17 @@ document.addEventListener("DOMContentLoaded", function(_e) {
                 generer();
             });   
         }
-        var allButtons = document.querySelectorAll("aside button");
+        var allButtons = document.querySelectorAll("aside .button");
         for (var i=0; i < allButtons.length; i++) {
-            allButtons[i].addEventListener("click", function() {
+            allButtons[i].addEventListener("click", function(e) {
+                e.preventDefault();
                 var qui = this.dataset.for;
                 var delta = 1*this.dataset.action;
                 var newVal = 1*document.getElementById(qui).value + delta;
                 if (newVal >= 1*document.getElementById(qui).getAttribute("min") &&
                     newVal <= 1*document.getElementById(qui).getAttribute("max")) {
                     document.getElementById(qui).value = newVal;
+                    generer();
                 }
             });
         }
@@ -226,7 +228,6 @@ document.addEventListener("DOMContentLoaded", function(_e) {
     
     function generer() {
         // filtrage des données à utiliser 
-        // TODO
         var leconMin = 1*document.getElementById("numLeconMin").value;
         var leconMax = 1*document.getElementById("numLeconMax").value;
         var cats = {};
