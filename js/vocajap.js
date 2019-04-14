@@ -160,7 +160,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         }, true);
         document.addEventListener("touchmove", function(e) {
             e.preventDefault();   
-        });
+        }, {passive: false});
         document.addEventListener("touchend", function(e) {
             var deltaY = e.changedTouches[0].screenY - touchStart.y;
             var deltaX = e.changedTouches[0].screenX - touchStart.x;
