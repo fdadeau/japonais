@@ -156,24 +156,24 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         });
         var touchStart = {x: -1, y: -1};
         document.addEventListener("touchstart", function(e) {
-            e.preventDefault();
             touchStart.x = e.changedTouches[0].screenX;   
             touchStart.y = e.changedTouches[0].screenY;   
         }, false);
         
         document.addEventListener("touchend", function(e) {
-            var lastY = e.changedTouches[0].screenY;
-            if (lastY - touchStart.y > 20) {
+            var deltaY = e.changedTouches[0].screenY - touchStart.y;
+            var deltaX = e.changedTouches[0].screenX - touchStart.x;
+            
+            if (deltaY > 20 && deltaY*deltaY > deltaX*deltaX) {
                 cmdPanel(true);    
                 return;
             }
-            if (touchStart.y - lastY > 20) {
+            if (deltaY < -20 && deltaY*deltaY > deltaX*deltaX) {
                 cmdPanel(false);
                 return;
             }   
             if (isPanelVisible()) return;
-            var lastX = e.changedTouches[0].screenX;
-            if (touchStart.x - lastX > 20) {
+            if (deltaX < -20) {
                 cmdGenerer();
                 return;
             }
@@ -193,6 +193,18 @@ document.addEventListener("DOMContentLoaded", function(_e) {
                 localStorage.setItem("params", JSON.stringify(params));
                 generer();
             });   
+        }
+        var allButtons = document.querySelectorAll("aside button");
+        for (var i=0; i < allButtons.length; i++) {
+            allButtons[i].addEventListener("click", function() {
+                var qui = this.dataset.for;
+                var delta = 1*this.dataset.action;
+                var newVal = 1*document.getElementById(qui).value + delta;
+                if (newVal >= 1*document.getElementById(qui).getAttribute("min") &&
+                    newVal <= 1*document.getElementById(qui).getAttribute("max")) {
+                    document.getElementById(qui).value = newVal;
+                }
+            });
         }
         
         generer();

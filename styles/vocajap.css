@@ -30,7 +30,7 @@ main > div {
     font-size: 4vw;
 }
 .jap {
-    font-family: "times new roman";
+    font-family: cursive, serif;
     font-size: 14vw;   
 }
 .syllabe {
@@ -131,5 +131,10 @@ aside p#categories {
 aside p#categories label {
     display: inline;
     margin: 1vh 2vh;
+}
+aside button {
+    background-color: darkgrey;
+    border: none;
+    border-radius: var(--taille);
 }
 
