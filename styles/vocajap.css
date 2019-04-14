@@ -134,7 +134,11 @@ aside p#categories label {
 }
 aside button {
     background-color: darkgrey;
+    display: inline-block;
     border: none;
-    border-radius: var(--taille);
+    box-sizing: border-box;
+    width: var(--taille);
+    height: var(--taille);
+    border-radius: calc(var(--taille) / 2);
 }
 

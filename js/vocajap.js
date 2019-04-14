@@ -158,7 +158,8 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         document.addEventListener("touchstart", function(e) {
             e.preventDefault();
             touchStart.x = e.changedTouches[0].screenX;   
-            touchStart.y = e.changedTouches[0].screenY;   
+            touchStart.y = e.changedTouches[0].screenY;  
+            return false;
         }, false);
         
         document.addEventListener("touchend", function(e) {
