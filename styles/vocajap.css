@@ -136,6 +136,9 @@ aside button {
     background-color: darkgrey;
     display: inline-block;
     border: none;
+    text-align: center;
+    line-height: var(--taille);
+    padding: 0;
     box-sizing: border-box;
     width: var(--taille);
     height: var(--taille);

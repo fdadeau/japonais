@@ -156,11 +156,10 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         });
         var touchStart = {x: -1, y: -1};
         document.addEventListener("touchstart", function(e) {
-            e.preventDefault();
             touchStart.x = e.changedTouches[0].screenX;   
             touchStart.y = e.changedTouches[0].screenY;  
             return false;
-        }, false);
+        }, true);
         
         document.addEventListener("touchend", function(e) {
             var deltaY = e.changedTouches[0].screenY - touchStart.y;
@@ -168,19 +167,19 @@ document.addEventListener("DOMContentLoaded", function(_e) {
             
             if (deltaY > 20 && deltaY*deltaY > deltaX*deltaX) {
                 cmdPanel(true);    
-                return;
+                return true;
             }
             if (deltaY < -20 && deltaY*deltaY > deltaX*deltaX) {
                 cmdPanel(false);
-                return;
+                return true;
             }   
             if (isPanelVisible()) return;
             if (deltaX < -20) {
                 cmdGenerer();
-                return;
+                return true;
             }
             cmdShow();
-        }, false);
+        }, true);
         
         var allInputs = document.querySelectorAll("aside input");
         for (var i=0; i < allInputs.length; i++) {
