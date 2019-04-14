@@ -64,9 +64,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
                 lecon: tabLigne[4].trim()
             });
         });
-        
-        console.log(data);
-        
+                
         if (!localStorage.getItem("params")) {
             localStorage.setItem("params", JSON.stringify({ leconMin: min, 
                                                             leconMax: max, 
@@ -211,6 +209,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
                 }
             });
         }
+        
         
         generer();
         
