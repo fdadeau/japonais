@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
             "adj" : "adjectifs", 
             "verbe" : "verbes", 
             "nom" : "noms", 
+            "num" : "chiffres, nombres",
             "kanji" : "kanjis", 
             "part" : "particules", 
             "expr" : "expressions" 
@@ -48,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
                 nbErrors++;
                 return;
             }
-            var lecon = tabLigne[4].trim();
+            var lecon = 1*tabLigne[4].trim();
             if (lecon < min) {
                 min = lecon;   
             }
@@ -64,11 +65,13 @@ document.addEventListener("DOMContentLoaded", function(_e) {
             });
         });
         
+        console.log(data);
+        
         if (!localStorage.getItem("params")) {
             localStorage.setItem("params", JSON.stringify({ leconMin: min, 
                                                             leconMax: max, 
                                                             categories: Object.keys(allCategories), 
-                                                            syllabes: false })); 
+                                                            syllabes: false})); 
         }
         
         var params = localStorage.getItem("params");
@@ -90,7 +93,6 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         }
         html += "</tr></table>";
         document.getElementById("categories").innerHTML = html;
-        
         
         document.getElementById("numLeconMin").setAttribute("min", min); 
         document.getElementById("numLeconMin").setAttribute("max", max); 
@@ -145,6 +147,11 @@ document.addEventListener("DOMContentLoaded", function(_e) {
                 case 27:
                     cmdPanel(!isPanelVisible());
                     break;
+                case 80:
+                case 81:
+                case 88:
+                    parler();
+                    break;
             }
         });
         var touchStart = {x: -1, y: -1};
@@ -194,11 +201,19 @@ document.addEventListener("DOMContentLoaded", function(_e) {
     
     var current = null;
     
+    function parler() {
+        var utterThis = new SpeechSynthesisUtterance();
+        utterThis.text = current.jap1;
+        utterThis.voice = window.speechSynthesis.getVoices().filter(function(voice) { return voice.lang == 'ja-JP'; })[0];
+        window.speechSynthesis.speak(utterThis);
+    }
+    
+    
     function generer() {
         // filtrage des données à utiliser 
         // TODO
-        var leconMin = document.getElementById("numLeconMin").value;
-        var leconMax = document.getElementById("numLeconMax").value;
+        var leconMin = 1*document.getElementById("numLeconMin").value;
+        var leconMax = 1*document.getElementById("numLeconMax").value;
         var cats = {};
         var allInputs = document.querySelectorAll("#categories input:checked");
         for (var i=0; i < allInputs.length; i++) {
@@ -206,8 +221,8 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         }
         
         var newData = data.filter(function(e) {
-            if (e.lecon < leconMin) return false;
-            if (e.lecon > leconMax) return false;
+            if (1*e.lecon < leconMin) return false;
+            if (1*e.lecon > leconMax) return false;
             return (document.getElementById("cb_" + e.cat).checked);
         });
         
@@ -231,7 +246,12 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         document.getElementById("francais").classList.remove("cache");
         
         var cache = document.getElementById("cbSyllabes").checked;
+        var speech = document.getElementById("cbSpeech").checked;
         
+        if (speech) {
+            document.getElementById("japonais").classList.add("cache");
+        }
+            
         document.getElementById("japonais").innerHTML = 
             "<span class='jap'>" + current.jap1 + "</span><br><span class='syllabe " + (cache ? "" : "cache") + "'>" + current.jap0 + "</span>";
         document.getElementById("francais").innerHTML = current.fr;
@@ -244,12 +264,11 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         if (current.jap1.length >= 10) {
             document.querySelector(".jap").style.fontSize = "8vw";
         }
-        
-    }
-    
-         
-            
-    
+                
+        if (jp2fr && document.getElementById("cbSpeech").checked) {
+            parler();
+        }
+    }    
     
     
                           
