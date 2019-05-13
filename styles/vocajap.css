@@ -133,7 +133,7 @@ aside p#categories label {
     display: inline;
     margin: 1vh 2vh;
 }
-aside .button {
+aside .button, #btnJouer {
     background-color: darkgrey;
     display: inline-block;
     border: none;
@@ -144,5 +144,14 @@ aside .button {
     width: var(--taille);
     height: var(--taille);
     border-radius: calc(var(--taille) / 2);
+}
+
+#btnJouer {
+    position: absolute; 
+    bottom: 1vh;
+    left: 1vw;
+    padding: 10px; 
+    color: white;
+    border-radius: 10px;
 }
 

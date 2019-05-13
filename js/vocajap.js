@@ -1,7 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(_e) {
-   
-    // charge les préférences depuis le localStorage
-    // TODO
+
     
     
     // lecture du fichier csv
@@ -209,6 +207,29 @@ document.addEventListener("DOMContentLoaded", function(_e) {
                 }
             });
         }
+        
+        var autoTO = null;        
+        var btnAuto = document.createElement("div");
+        btnAuto.innerHTML = "Jouer";
+        btnAuto.id = "btnJouer";
+        btnAuto.addEventListener("click", function(_e) {
+            if (this.innerHTML == "Stop") {
+                btnAuto.innerHTML = "Jouer";
+                clearInterval(autoTO);
+            }
+            else {
+                btnAuto.innerHTML = "Stop";
+                autoTO = setInterval(function() {
+                    if (!document.getElementById("francais").classList.contains("cache")) {
+                        cmdGenerer();
+                    }
+                    else {
+                        cmdShow();    
+                    }
+                }, 3000);
+            }
+        }, false);
+        document.querySelector("main").appendChild(btnAuto);
         
         
         generer();
