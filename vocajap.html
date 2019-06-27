@@ -4,14 +4,37 @@
 <head>
     <title></title>
     <meta charset="UTF-8">
-    <script src="js/vocajap.js"></script>
     <meta name="viewport" content="width=device-width, user-scalable=no">
-    <link rel="stylesheet" type="text/css" href="styles/vocajap.css">
-    <link rel="apple-touch-icon" sizes="128x128" href="images/icon128.png">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
+    
+    <meta name="description" content="Application pour travailler son vocabulaire Japonais">
+
+    <meta name="theme-color" content="#2F3BA2" />
+
     <link rel="manifest" href="vocajap.json">
 
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Weather PWA">
+    <link rel="apple-touch-icon" href="/images/icons/icon-152x152.png">
+
+    <script src="js/vocajap.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="styles/vocajap.css">
+    
+    <script>
+    
+// CODELAB: Register service worker.
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/service-worker.js')
+        .then((reg) => {
+          console.log('Service worker registered.', reg);
+        });
+  });
+}
+
+    </script>
+    
 </head>
     
 <body>
@@ -46,7 +69,7 @@
         <div id="japonais"></div>
         <div id="francais"></div>    
     </main>
-    
+        
 </body>    
 
 </html>

@@ -113,6 +113,9 @@ document.addEventListener("DOMContentLoaded", function(_e) {
             for (var i=0; i < elem.length; i++) {
                 elem[i].classList.remove("cache");
             }   
+            if (document.getElementById("cbSpeech").checked) {
+                parler("fr");
+            }
         }
         
         function cmdPanel(b) {
@@ -237,12 +240,22 @@ document.addEventListener("DOMContentLoaded", function(_e) {
     }
     
     var current = null;
+    var utterThis = new SpeechSynthesisUtterance();
     
-    function parler() {
-        var utterThis = new SpeechSynthesisUtterance();
-        utterThis.text = current.jap1;
-        utterThis.voice = window.speechSynthesis.getVoices().filter(function(voice) { return voice.lang == 'ja-JP'; })[0];
+    function parler(lang) {
+        utterThis.text = (lang == "jp") ? current.jap1 : current.fr;
+        if (lang == "jp") {
+            utterThis.voice = window.speechSynthesis.getVoices().filter(function(voice) { return voice.lang == 'ja-JP'; })[0];
+            utterThis.rate = 0.8;
+        }
+        else {
+            utterThis.voice = window.speechSynthesis.getVoices().filter(function(voice) { return voice.lang == 'fr-FR'; })[0];   
+            utterThis.rate = 1; 
+        }
         window.speechSynthesis.speak(utterThis);
+    }
+    function parlerFR() {
+           
     }
     
     
@@ -285,7 +298,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         var speech = document.getElementById("cbSpeech").checked;
         
         if (speech) {
-            document.getElementById("japonais").classList.add("cache");
+            // document.getElementById("japonais").classList.add("cache");
         }
             
         document.getElementById("japonais").innerHTML = 
@@ -302,7 +315,7 @@ document.addEventListener("DOMContentLoaded", function(_e) {
         }
                 
         if (jp2fr && document.getElementById("cbSpeech").checked) {
-            parler();
+            parler("jp");
         }
     }    
     

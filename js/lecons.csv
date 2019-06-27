@@ -3,6 +3,7 @@ abunai ; 危ない ; être dangereux ; adj ; 54
 a(geru)/kyo ; 挙 ; se réunir, nommer, citer ; kanji ; 58
 a(ru)/yû ; 有 ; avoir, posséder, exister ; kanji ; 32
 a(ru)/zai ; 在 ; être ; kanji ; 38
+achira ; あちら ; là bas ; adv ; 78
 afurika ; アフリカ ; Afrique ; nom ; 38
 ai ; 愛 ; amour, affection ; kanji ; 39
 aikyô ; 愛嬌 ; charme, drôlerie ; nom ; 39
@@ -17,6 +18,7 @@ ano ; あの ; ce-là-bas ; adv ; 52
 aru hi ; ある 日 ; un jour ; expr ; 37
 aita ; 会いた ; avoir rencontré (deg. moins) ; verbe ; 23
 aitai ; 会いたい ; vouloir rencontrer (deg. moy.) ; verbe ; 27
+aitsu ; あいつ ; ce mec, celui-là ; nom ; 72
 aji/mi ; 味 ; goût, saveur ; kanji ; 36
 aka/seki ; 赤 ; rouge ; kanji ; 31
 akagane/dô ; 銅 ; cuivre, bronze ; kanji ; 33
@@ -48,6 +50,7 @@ arawasu ; 表す ; représenter, exprimer ; verbe ; 36
 arawa(su)/hyô ; 表 ; montrer, exprimer, paraître ; kanji ; 36
 ara(u)/sen ; 洗 ; laver ; kanji ; 59
 are ; あれ ; ça-là-bas ; adv ; 52
+areba ; あれば ; si se trouvait, si j'avais ; verbe ; 76
 arigato ; ありがと ; merci ; expr ; 9
 arigato gozaimasu ; ありがと ございます ; merci beaucoup ; expr ; 22
 arimasu ; あります ; se trouver - présent ; verbe ; 4
@@ -93,10 +96,12 @@ baai ; 場合 ; cas, occasion ; nom ; 68
 bachi/batsu ; 罰 ; peine, punition, châtiment ; kanji ; 32
 bâgen ; バーゲン ; bonnes affaires, soldes ; nom ; 31
 baggu ; バッグ ; sac ; nom ; 27
+bakkari ; ばっかり ; seulement ; adv ; 74
 bakkin ; 罰金 ; amende ; nom ; 32
 ban ; 晩 ; soirée ; kanji ; 9
 ban ; 番 ; numéro, ordre ; kanji ; 61
 banchi ; 番地 ; numéro de rue ; nom ; 61
+banmechi ; 晩飯 ; souper, dîner ; nom ; 75 
 basho ; 場所 ; lieu ; nom ; 51
 basu ; バス ; bus ; nom ; 6
 basudai ; バス代 ; prix du ticket de bus ; nom ; 45
@@ -104,6 +109,9 @@ beddo ; ベッド ; lit (bed) ; nom ; 46
 ben ; 勉 ; travail, application, effort ; kanji ; 63
 benkyô ; 勉強 ; études ; nom ; 63
 benri ; 便利 ; pratique ; adj ; 24
+beru ; ベル ; cloche, sonnette (bell) ; nom ; 74
+beso ; べそ ; pleunicher ; nom ; 72
+bessô ; 別荘 ; villa ; nom ; 76
 betsubetsu ; 別々 ; séparé ; adj ; 62
 bô ; 帽 ; chapeau, coiffure ; kanji ; 54
 bochi ; 墓地 ; cimetière ; nom ; 67
@@ -172,8 +180,10 @@ daidokoro ; 台所 ; cuisine ; nom ; 34
 daietto ; ダイエット ; diète, régime ; nom ; 12
 daijôbu ; 大丈夫 ; sans problème/hors de danger ; adv ; 27 
 daigaku ; 大学 ; université ; nom ; 23
+dainashi ; だいなし ; gaché, ruiné ; adj ; 72
 dainingu ; ダイニング ; salle à manger (dining room) ; nom ; 34
 daisuki ; 大好き ; très aimé ; adj ; 9
+daiyamondo ; ダイヤモンド ; diamand ; nom ; 76
 dame ; だめ ; impossible ; adv ; 67
 dan ; 談 ; histoire, discussion ; kanji ; 29 
 dan ; 段 ; étape, degré, rang ; kanji ; 36
@@ -182,6 +192,8 @@ danjo ; 男女 ; hommes et femmes ; nom ; 62
 darake ; だらけ ; plein de ; adv ; 39
 dare ; だれ ; qui ; adv ; 19
 daremo ; だれも ; personne ; adv ; 30
+dareka ; だれか ; quelqu'un ; adv ; 69
+darô ; だろう ; ce doit être (deg. moins) ; verbe ; 72
 datta ; だった ; c'était (deg. moins) ; verbe ; 41
 dattara ; だったら ; si c'était, si c'est, quand c'est ; verbe ; 62
 datte ; だって ; il/elle a dit que (familier) ; expr ; 44
@@ -190,10 +202,11 @@ de gozaimasu ; で ございます ; c'est (deg. plus) ; verbe ; 44
 de(ru)/shutsu ; 出 ; sortir, s'éloigner ; kanji ; 32
 dejikame ; デジカメ ; appareil photo numérique ; nom ; 65
 dekiagatta ; できあがった ; fini ; adj ; 40
-dekimasu ; できます ; être possible/se produire - présent ; verbe ; 13 
+dekimasu ; できます ; être possible/être terminé - présent ; verbe ; 13 
 dekimasen deshita ; できません でした ; ne pas avoir été possible ; verbe ; 13 
 dekireba ; 出来れば ; si possible, si on peut ; expr ; 57
 dekita ; できた ; être fini ; verbe ; 40
+dekite nai ; 出来て ない ; ne pas être fini (deg. moins) ; verbe ; 73 
 demo ; でも ; mais ; adv ; 5
 den ; 電 ; électricité ; kanji ; 6
 denki ; 電気 ; électrique ; adj ; 40
@@ -218,7 +231,9 @@ dewa ; でわ ; alors ; adv ; 17
 do ; 度 ; fois, degré, libérer ; kanji ; 18
 dô ; どう ; comment ; adv ; 6
 dô ; 堂 ; sanctuaire, temple, grande pièce, salon ; kanji ; 66
+doa ; ドア ; porte (door) ; nom ; 74
 dôbutsuen ; 動物園 ; zoo ; nom ; 39 
+doitsu ; ドイツ ; Allemagne ; nom ; 78
 dômo arigato gozaimasu ; どうも ありがと ございます ; merci beaucoup ; expr ; 17 
 dômo wazawaza arigatô gozaimashita ; どうも わざわざ ありがとう ございました ; merci beaucoup de votre visite ; expr ; 53 
 dondon ; どんどん ; abondamment, avec ardeur ; adv ; 63
@@ -264,6 +279,7 @@ fukaku ; 深く ; être profond ; adj ; 62
 fuku ; 服 ; vêtement ; kanji ; 4
 fuku ; 吹く ; souffler ; verbe ; 47
 fumi ; 文 ; lettre, message ; kanji ; 19
+fumoto ; ふもと ; au pied, en bas de ; nom ; 72 
 fune/sen ; 船 ; bâteau, navire ; kanji ; 55
 furansu ; フランス ; France ; nom ; 13
 furui ; 古い ; être ancien ; adj ; 17
@@ -274,6 +290,7 @@ futo/tai ; 太 ; gros, épais ; kanji ; 30
 fû / hô ; 封 ; sceau / fief, territoire ; kanji ; 61
 fûtô ; 封筒 ; enveloppe ; nom ; 61
 furimasu ; 降ります ; tomber - present (deg. moyen) ; verbe ; 31
+furisode ; 振り袖 ; kimono de présentation ; nom ; 71
 furoa ; フオラ ; étage (floor) ; nom ; 44
 furo ; 風呂 ; bain ; nom ; 62
 furoba ; 風呂場 ; salle de bains ; nom ; 62
@@ -292,6 +309,8 @@ ga ; が ; [sujet] ; adv ; 4
 ga ; 画 ; photo ; kanji ; 8
 -ga(eru)/ka(eru)/tai / ka(waru) ; 替 ; échanger, substituer / prendre la place ; kanji ; 54
 gaikokujin ; 外国人 ; étranger ; kanji ; 45
+gakusei ; 学生 ; étudiant ; nom ; 78
+gaman ; 我慢 ; patience ; nom ; 71
 gan ; 願 ; souhait ; kanji ; 9
 garaji ; ガラジ ; garage ; nom ; 34
 -gata/kata/hoo/-poo ; 方 ; direction, orientation, façon, manière ; kanji ; 32
@@ -303,9 +322,11 @@ genjitsuteki ; 現実的 ; réaliste ; nom ; 48
 genkan ; 玄関 ; porte d'entrée ; nom ; 62
 genki ; 元気 ; bonne santé ; nom ; 23
 genki desu ka ; 元気 です か ; comment allez-vous ? ; expr ; 23
+genkô ; 原稿 ; manuscrit ; nom ; 76
 geshuku ; 下宿 ; location, logement ; nom ; 62
 getsuyôbi ; 月曜日 ; samedi ; nom ; 16
 gi ; 議 ; débat, délibération, proposition ; kanji ; 50
+giin ; 議員 ; membre d'une assemblée ; nom ; 69
 gin ; 銀 ; argent (métal) ; kanji ; 31
 ginkô ; 銀行 ; banque ; nom ; 31
 girisha ; ギリシャ ; Grèce ; nom ; 38
@@ -314,6 +335,7 @@ go/kata ; 語 ; mot ; kanji ; 26
 gô ; 合 ; s'accorder, se combiner ; kanji ; 19
 go ; 御 ; préfixe honorifique ; kanji ; 64
 gochisô ; ごちそう ; festin, régal ; nom ; 41
+gogaku ; 語学 ; langue ; nom ; 71
 gogatsu ; 五月 ; mai (5-mois) ; nom ; 23
 gogo ; 午後 ; après-midi ; nom ; 11
 ... goro ; ... ごろ ; ... approximativement ; expr ; 55
@@ -330,6 +352,7 @@ ha ; 葉 ; feuille ; kanji ; 22
 hachi ; 八 ; 8 ; num ; 11
 hadaka ; 裸 ; nu ; kanji ; 62
 hagaki ; 葉書 ; carte postale ; nom ; 22 
+haha ; 母 ; mère ; nom ; 74
 hai ; はい ; oui ; adv ; 4
 hai/-pai ; 杯 ; tasse, unité pour compter les verres pleins ; kanji ; 37
 hai/i/nyû ; 入 ; entrer, pénétrer, s'introduire ; kanji ; 23 
@@ -339,9 +362,11 @@ hairimashô ; 入りましょう ; entrons ; verbe ; 5
 haitatsu ; 配達 ; livraison, distribution ; nom ; 61
 haji/chi ; 恥 ; humiliation, honte, infâmie ; kanji ; 62
 haji(meru)/sho ; 初 ; commencer quelque chose ; kanji ; 32
+hajimeru ; 始める ; commencer (infinitif) ; verbe ; 73 
 hajimete ; 初めて ; pour la première fois ; expr ; 39
 haka/bo ; 墓 ; tombe ; kanji ; 67
 hakanai ; はかない ; éphémère ; adj ; 48
+hakihaki ; はきはき ; vif ; adj ; 71
 hakkiri ; はっきり ; clairement ; adv ; 55
 hako ; 箱 ; boîte ; kanji ; 17
 haku ; 伯 ; frère ainé, chef, comte ; kanji ; 32 
@@ -356,6 +381,7 @@ hanareta ; 離れた ; être éloigné ; verbe ; 44
 hana(su)/hanashi ; 話(す) ; histoire ; kanji ; 13
 hanashiau ; 話し合う ; discuter (infinitif) ; verbe ; 66
 hanbun ; 半分 ; moitié ; nom ; 61
+handobaggu ; ハンドバッグ ; sac à main ; nom ; 76
 hantô ; 半島 ; presqu'île, péninsule ; nom ; 67
 happi endo ; ハッピー エンド ; happy end ; nom ; 43
 hara/gen ; 原 ; plaine, lande / origine, source ; kanji ; 29
@@ -364,7 +390,8 @@ harawanakereba ; 払わねければ ; devoir payer ; verbe ; 45
 hashirimasu ; 走ります ; rouler (voiture) ; verbe ; 32
 hashirinagara ; 走りながら ; tout-en-roulant ; verbe ; 58
 haru/shun ; 春 ; printemps ; kanji ; 26
-ha(ru).shô ; 張 ; fixer, coller, tendre, dresser ; kanji ; 52 
+ha(ru)/shô ; 張 ; fixer, coller, tendre, dresser ; kanji ; 52 
+haru ; 張る ; fixer (infinitif) ; verbe ; 75 
 hashi ; 箸 ; baguettes ; kanji ; 9
 hata/ki ; 機 ; machine ; kanji ; 27
 hata/ki ; 旗 ; drapeau ; kanji ; 58
@@ -390,10 +417,12 @@ hi ; 非 ; tort, faute, erreur ; kanji ; 50
 hi/ka ; 火 ; feu, flamme ; kanji ; 29
 hô ; 方 ; côté ; kanji ; 34
 hô ga (adj) desu ; 方 が (adj) です ; c'est plus (adj) de ... ; expr ; 32
+hodo ; ほど ; à peu près ; adv ; 69
 hoemashita ; 吠えました ; avoir rugi/aboyé ; verbe ; 39
 hoka/ta ; 他 ; autre ; kanji ; 41
 hôkô ; 方向 ; direction ; nom ; 67
 hidari ; 左 ; gauche ; kanji ; 17
+hidoi ; ひどい ; affreux ; adj ; 72 
 higure ; 日暮れ ; tombée de la nuit ; nom ; 48
 hikaeimasu ; 控えいます ; réfréner, s'abstenir ; verbe ; 46 
 hikari ; 光 ; lumière ; kanji ; 26
@@ -411,17 +440,20 @@ hiroi ; 広い ; être vaste ; adj ; 52
 hirobiro ; 広々 ; être spacieux ; adj ; 62
 hiru/shû ; 昼 ; midi, jour ; kanji ; 30
 hirune ; 昼寝 ; sieste ; nom ; 30
-hisashiburi ; 久しぶり ; long moment sans se voir ; expr ; 30
+hisashiburi ; 久しぶり ; après bien longtemp ; expr ; 30
+hisho ; 避暑 ; vacances d'été ; nom ; 76
 hito/jin ; 人 ; être humain ; kanji ; 13
 hitori ; 一人 ; une personne ; num ; 44
 hitobito ; 人々 ; les gens ; nom ; 37
 hitotsu ; 一つ ; un (quantité) ; num ; 65 
 hitsuyô ; 必要 ; indispensable, nécessaire ; adj ; 34
 hiya ; 冷 ; froid ; kanji ; 54
+hiyashite okimasu ; 冷やして おきます ; mettre au frais (à l'avance) ; verbe ; 74 
 hiyake ; 日焼け ; coup de soleil ; nom ; 54
 hômen ; 方面 ; direction, domaine ; nom ; 63
 hômu dorama ; ホーム ドラマ ; home-drama (feuilleton) ; nom ; 10 
 hon ; 本 ; livre ; kanji ; 4
+honnen ; 本年 ; cette année ; nom ; 78
 hontô ; 本当 ; vrai ; adj ; 12
 hontô ; ほんとう ; vraiment ; adv ; 19
 honya ; 本屋 ; librairie ; nom ; 18
@@ -441,7 +473,7 @@ ii ; いい ; être bien ; adj ; 2
 iie ; いいえ ; non ; adv ; 17
 ichi ; 一 ; 1 ; num ; 11
 ichi ; 市 ; marché ; kanji ; 17
-ichi ban (+adj); 一番 ; le plus (+adj) ; expr ; 52 
+ichiban (+adj); 一番 ; le plus (+adj) ; expr ; 52 
 ichi do ; 一 度 ; une fois ; num ; 60
 ichi-mai ; 一 枚 ; 1-feuille ; num ; 22
 ichi-sai ; 一 歳 ; 1-an ; num ; 15
@@ -454,6 +486,7 @@ ikanai ; 行かない ; ne pas aller (deg. moins) ; verbe ; 29
 ikanakereba narimasen ; かなければ なりません ; il faut aller ; expr ; 53
 ikkai ; 一 階 ; rez-de-chaussée (1-étage) ; num ; 24
 ikkagetsu ; 一ヶ月 ; un mois ; num ; 34
+ikken ; 一軒 ; une maison ; num ; 76
 ikkenya ; 一軒家 ; maison individuelle ; num ; 34
 ikaga ; いかが ; comment ; adv ; 16
 ikaga desu ka ; いかが です か ; comment c'est ? (que pensez-vous) ; expr ; 16
@@ -488,8 +521,9 @@ ippon ; 一本 ; un "objet long" ; num ; 53
 irai ; 以来 ; depuis ; adv ; 59
 irasshaimase ; いらっしゃいませ ; bienvenue, "veuillez entrer" ; expr ; 12
 irasshaimasen ; いらしゃいません ; ne pas venir (deg. plus) ; verbe ; 47
-irassharu ; いらっしゃる ; venir (deg. plus) ; verbe ; 67
+irassharu ; いらっしゃる ; venir, aller, se trouver (deg. plus) ; verbe ; 67
 irasshaimasu ; いらっしゃいます ; venir, aller (deg. plus) ; verbe ; 68
+irete ; 入れて ; mettre dans ; verbe ; 74
 iro ; 色 ; couleur ; kanji ; 30
 iroiro ; 色々 ; de toutes sortes ; expr ; 62
 isha ; 医者 ; docteur ; nom ; 46
@@ -499,16 +533,20 @@ isoga(shii)/bô ; 忙 ; être occupé, être pressé ; kanji ; 41
 isogashii ; 忙しい ; être occupé ; adj ; 41
 isogi ; 急ぎ ; urgence ; nom ; 61
 issho ; 一緒 ; ensemble; adv ; 5
-isshû ; 一週 ; une semaine ; num ; 46
+isshû ; 一週 ; une semaine, un tour ; num ; 46
 isshûkan ; 一週間 ; une semaine-durée ; num ; 53
 isu ; 椅子 ; siège, chaise ; nom ; 60
+itadakanai ; いただかない ; ne pas recevoir ; verbe ; 73
 itai ; 痛い ; être douloureux ; adj ; 46
 itaku ; 痛く ; douloureux ; adj ; 46
+itashimasu ; いたします ; faire (present - deg. plus) ; verbe ; 69
 itsu ; いつ ; quand ; adv ; 15
+itsudemo ; いつでも ; à tout moment ; adv ; 73
 itsumo ; いつも ; toujours ; adv ; 32
 itsu kara ; いつ から ; depuis quand ; adv ; 15
 ittai ; いったい ; après tout, enfin ; adv ; 59
 itte imasu ; 入って います ; entrer (présent hab.) ; verbe ; 24
+ittemo ; 行っても ; même si on va ; verbe ; 71
 iu ; いう ; dire - infinitif ; verbe ; 33 
 iwa/gan ; 岩 ; roc, rocher ; kanji ; 54
 iwa(u)/shuku/shû ; 祝 ; fêter, célébrer ; kanji ; 46
@@ -524,9 +562,11 @@ ji ; 字 ; caractère, lettre ; kanji ; 36
 jibun ; 自分 ; moi-même ; adv ; 18
 jidai ; 時代 ; âge, époque ; nom ; 17
 jidôsha ; 自動車 ; automobile, voiture ; nom ; 23 
+jigi ; 辞儀 ; courbette ; nom ; 78
 jikan ; 時間 ; heure-durée, durée, temps ; adv ; 13
 jikan ga kakaru ; 時間 が かかる ; prendre du temps ; expr ; 55
 jiko ; 事故 ; accident ; nom ; 23
+jiman ; 自慢 ; vantardise ; nom ; 72
 jimusho ; 事務所 ; bureaux ; nom ; 40
 jinto ; じんと ; subitement et profondément ; expr ; 46
 jishin ; 地震 ; tremblement de terre ; nom ; 66
@@ -536,9 +576,12 @@ jitsubutsu ; 実物 ; chose réelle ; nom ; 67
 jô ; 丈 ; mesure, taille, stature ; kanji ; 27
 jô/sei/shô ; 生 ; vivre ; kanji ; 29
 jogingu ; ジョギング ; jogging ; nom ; 68
+jôken ; 条件 ; conditions ; nom ; 69
 joyû ; 女優 ; actrice ; nom ; 19
+jôzu ; 上手 ; habile ; nom ; 69
 jû ; 十 ; 10 ; num ; 11
 jû / a(teruu) ; 充 ; remplir / affecter, attribuer, destiner ; kanji ; 51
+jûbun ; 十分 ; assez, suffisant ; adv ; 73
 jûden ; 充電 ; charge, batterie ; nom ; 51
 jun ; 純 ; pûreté, innocence ; kanji ; 66
 jun ; 準 ; semi-, quasi-, correspondant à ; kanji ; 66
@@ -552,12 +595,15 @@ ka ; 課 ; section, leçon ; kanji ; 3
 ka ; 菓 ; gâteau, fruit ; kanji ; 12
 ka/koku ; 可 ; approbation, assez bien ; kanji ; 38
 kaban ; 鞄 ; sac, petite valise ; kanji ; 31
+kâbu ; カーブ ; courbe, virage (curve) ; nom ; 72
 kabuki ; 歌舞伎 ; Kabuki (théâtre) ; nom ; 29
 kabu(ru) / kômu(ru)/hi ; 被 ; coiffer, être coiffé de / porter, endurer, subir ; verbe ; 54
 kaburanai ; 被らない ; ne porte pas (impératif) ; verbe ; 54
 kaereru ; 帰れる ; pouvoir rentrer ; verbe ; 53
 kaeri ; 帰り ; retour ; nom ; 31
 kaerimasu ; 帰ります ; rentrer - présent (deg. moyen) ; verbe ; 31
+kaesu ; 返す ; rendre (infinitif) ; verbe ; 76
+kagaku ; 科学 ; science ; nom ; 78
 kagami ; 鏡 ; miroir ; kanji ; 8
 kagayaite ; 輝いて ; briller ; verbe ; 48
 kai ; 買 ; achat ; kanji ; 8
@@ -581,13 +627,17 @@ kakatte imasu ; かかって います ; être accroché (deg. moyen) ; verbe ; 
 kakatte iru ; かかって いる ; être accroché (deg. moins) ; verbe ; 31 
 kakemasu ; かけます ; appeler - présent ; verbe ; 16
 kakemashô ; かけましょう ; appelons - impératif ; verbe ; 16
+kakenai ; 書けない ; ne pas pouvoir écrire ; verbe ; 78
+kakeru ; 書ける ; pouvoir écrire ; verbe ; 76
 kaketeru pâtî ; カクテル パーティー ; soirée cocktail ; nom ; 47 
 kakete miyô ; かけて みよう ; essayons d'appeler (deg. moins) ; verbe ; 51 
 kakete mimashô ; かけて みましょう ; essayons d'appeler (deg. moyen) ; verbe ; 51
 kakimasu ; 書きます ; écrire - présent (deg. moy.) ; verbe ; 25
 kakimashita ; 書きました ; avoir écrit (deg. moy.) ; verbe ; 25
+kaku ; 書く ; écrire ; verbe ; 78
 kakushû ; 隔週 ; une semaine sur deux ; nom ; 47
 kamera ; カメラ ; appareil photo ; nom ; 4
+kamoshirenai ; かもしれない ; je crois bien que ; expr ; 75
 kan ; 簡 ; brièveté, simplicité ; kanji ; 18
 kan ; 感 ; sentiment ; kanji ; 33
 kan ; 観 ; aspect, vue, apparence ; kanji ; 26
@@ -599,17 +649,20 @@ kanai ; 家内 ; épouse ; nom ; 18
 kanarazu ; 必ず ; sans faute ; nom ; 27
 kanarazushimo ; 必ずしも ; pas nécessairement ; adv ; 36
 kanata ; 彼方 ; le lointain ; nom ; 43
+kanji ; 感じ ; impression ; nom ; 71
 kangae ; 考え ; pensée, idée ; nom ; 16
 kangaeru ; 考える ; penser (infinitif) ; verbe ; 66
 kankaku ; 感覚 ; sensation ; nom ; 55
 kankei ; 関係 ; relation, lié à ; adv ; 23 
 kankô ; 観光 ; tourisme, visites ; nom ; 26
+kanojo ; 彼女 ; elle-même ; adv ; 71
 kanpai ; 乾杯 ; santé ; expr ; -1
 kanshin ; 感心 ; admirable ; adj ; 33
 kantan ; 簡単 ; facile ; adj ; 18
 kao ; 顔 ; visage ; kanji ; 50
 kao/kô ; 香 ; senteur, parfum, arôme ; kanji ; 31
 kara ; から ; à partir de, depuis / parce que ; adv ; 6
+karada/tai/tei ; 体 ; corps, substance ; kanji ; 73
 karappo ; 空っぽ ; vide ; adj ; 45
 ka(reru)/ko ; 枯 ; se déssecher, flétrir, mourir ; kanji ; 48
 ka(riru)/shaku ; 借 ; emprunter, louer ; kanji ; 54
@@ -648,8 +701,12 @@ kazoku ; 家族 ; la famille ; nom ; 67
 kekkô ; けっこう ; parfait ; adj ; 5
 kekkon ; 結婚 ; mariage ; nom ; 15
 kedo ; けど ; mais, cependant (familier) ; adv ; 24
+keishiki ; 景色 ; paysage ; nom ; 75
 keitai ; 携帯 ; portable, mobile (téléphone) ; nom ; 51
 keiyu ; 経由 ; via ; adv ; 55
+keizai ; 経済 ; économie ; nom ; 69
+kenbutsu ; 見物 ; visite touristique ; nom ; 76
+kenkyû ; 研究 ; recherche ; nom ; 78
 keredomo ; けれども ; mais, cependant ; adv ; 24
 kesa ; 今朝 ; ce matin ; nom ; 13
 kewa(shii)/ken ; 険 ; raide, abrupt, sévère ; kanji ; 43
@@ -680,6 +737,7 @@ kôgô ; 皇后 ; Impératrice ; nom ; 68
 kôhî ; コーヒー ; café ; nom ; 3
 kojin ; 個人 ; à titre individuel ; adj ; 63 
 kôjô ; 工場 ; usine ; nom ; 40
+kokkai ; 国会 ; assemblée nationale ; nom ; 69
 koko ; ここ ; ici ; adv ; 5
 kokochi/gokochi ; 心地 ; confort ; nom ; 60 
 kokoro ; 心 ; coeur ; kanji ; 23
@@ -692,6 +750,7 @@ komarimashita ; 困りました ; avoir été ennuyé ; verbe ; 13
 komugi ; 小麦 ; blé ; nom ; 30
 kon ; 近 ; à proximité ; kanji ; 6
 kon ; 婚 ; mariage ; kanji ; 15
+konai ; こない ; ne pas venir (deg. moins) ; verbe ; 74
 konban ; 今晩 ; ce soir ; nom ; 9
 konbanwa ; こんばんわ ; bonsoir ; expr ; -1
 konishiwa ; こんにわ ; bonjour ; expr ; -1
@@ -707,7 +766,9 @@ konpyûta ; コンピュータ ; ordinateur (computer) ; nom ; 40
 kore ; これ ; celui, cet(te) ; adv ; 17
 koredomo ; これども ; cependant ; adv ; 24
 korekara ; これから ; à partir de maintenant ; adv ; 40
+koro ; ころ ; autour de ; adv ; 74
 koro(bu)/ten ; 転 ; rouler, trébucher ; kanji ; 57
+korobu ; 転ぶ ; tomber (infinitif) ; verbe ; 72
 kôshitsu ; 皇室 ; Famille Impériale ; nom ; 68 
 koshô ; 故障 ; les pannes ; nom ; 59
 koso ; こそ ; justement ; adv ; 67
@@ -715,6 +776,7 @@ kôsokudôro ; 高速道路 ; autoroute ; nom ; 32
 kota(eru) ; 答 ; réponse ; kanji ; 39
 kotaemashita ; 答えました ; avoir répondu ; verbe ; 39
 koto ; こと ; (verbe +) le fait de, événement ; adv ; 32 
+kôto ; コート ; manteau (coat) ; nom ; 76
 koto/ji/zu ; 事 ; chose, fait, action ; kanji ; 23 
 kotobuki ; 寿 ; vie ; kanji ; 16
 kôtôgakkô ; 高等学校 ; lycée ; nom ; 47
@@ -756,6 +818,7 @@ kimasen deshita ; 来ません でした ; ne pas être venu ; verbe ; 13
 kimasen deshita ; きません でした ; ne pas avoir pu...  ; verbe ; 20
 kimashita ; 来ました ; être venu ; verbe ; 8 
 kimashô ; 来ましょう ; venons ; verbe ; 9
+kimi ; 君 ; toi (deg. moins, masculin) ; expr ; 75
 kimochi ; 気持 ; sentiment ; nom ; 48
 kin ; 禁 ; interdiction ; kanji ; 20
 kin/kon ; 金 ; métal, or, argent (monnaie) ; kanji ; 22
@@ -763,10 +826,13 @@ kinen ; 禁煙 ; interdiction de fumer ; nom ; 20
 kinô ; 昨日 ; hier ; nom ; 8
 kinyôbi ; 金曜日 ; vendredi ; nom ; 16
 kippu ; 切符 ; ticket ; nom ; 29
+kirau ; 嫌う ; détester ; verbe ; 75
 kisetsu ; 季節 ; saison ; nom ; 39
 kisha ; 汽車 ; train (grandes lignes) ; nom ; 32
+kisha ; 記者 ; reporter, journaliste ; nom ; 69 
 kishi ; 岸 ; rivage ; kanji ; 30
 kissaten ; 喫茶店 ; café (lieu) ; nom ; 12
+kita ; 北 ; nord ; kanji ; 75 
 kite imasu ; 来て います ; venir (deg. moy.) ; verbe ; 29
 kite iru ; 来て いる ; venir (deg. moins) ; verbe ; 29
 kitto ; きっと ; sûrement ; adv ; 39
@@ -776,6 +842,7 @@ kubi ; 首 ; cou ; kanji ; 39
 kudamono ; 果物 ; fruit ; nom ; 53
 kudasai ; 下さい ; s'il vous plait (donnez-moi) ; expr ; 9
 kuge ; 公家 ; les nobles ; nom ; 36 
+kûki ; 空気 ; air ; nom ; 75
 kûkô ; 空港 ; aéroport ; nom ; 27
 kuma ; 熊 ; ours ; kanji ; 39
 kumitateru ; 組立てる ; assembler ; verbe ; 40
@@ -840,14 +907,17 @@ mainichi ; 毎日 ; chaque jour ; adv ; 37
 majine ; まじめ ; sérieux ; adj ; 63
 majiru/kô ; 交 ; intersection ; kanji ; 23
 mâjan ; マージャン ; mah-jong ; nom ; 41
+makura ; 枕 ; oreiller ; kanji ; 75 
 mamoru ; 守る ; protéger ; verbe ; 43
 man ; 万 ; 10.000 ; num ; 17
 mana/gaku ; 学 ; étudier, apprendre ; kanji ; 23
 manin ; 満員 ; bondé, plein ; adj ; 62
 mannaka ; 真中 ; plein-milieu ; nom ; 68 
 massugu ; まっすぐ ; tout droit ; adv ; 20 
+masumasu ; ますます ; de plus en plus ; adv ; 73
 mata ; また ; de nouveau, aussi ; adv ; 9
 matawa ; またわ ; ou bien ; adv ; 50
+matchi ; マッチ ; allumettes ; nom ; 75
 matsu ; 末 ; fin, extrémité, bout ; kanji ; 32
 mattaku ; 全く ; totalement ; adv ; 48
 matte imasu ; 待って います ; attendre ; verbe ; 27
@@ -864,12 +934,17 @@ megane ; 眼鏡 ; lunettes ; nom ; 8
 meguro ; 目黒 ; Meguro ; nom ; 6
 meibutsu ; 名物 ; spécialité ; nom ; 30
 mezurashii ; めずらしい ; être rare ; adj ; 41
+miai ; 見合い ; mariage arrangé ; nom ; 69
+miataranai ; 見当たらない ; ne pas être trouvable ; verbe ; 75
 michi/dô/tô ; 道 ; rue, route ; kanji ; 20
 midori ; 緑 ; vert ; kanji ; 50
 mikka ; 三日 ; 3-jours ; nom ; 20
 mimai ; 見舞 ; visite ; nom ; 53
 mimasu ; 見ます ; regarder (deg. moy.) ; verbe ; 10
 mimashita ; 見ました ; avoir regardé (deg. moy.); verbe ; 2
+minami ; 南 ; sud ; kanji ; 75
+minku ; ミンク ; vison ; nom ; 76
+minshuku ; 民宿 ; chambre chez l'habitant ; nom ; 75
 mitara ; 見たら ; si on regarde ; verbe ; 61
 miemasen deshita ; 見えません でした ; ne pas avoir vu ; verbe ; 8
 migi ; 右 ; droit(e) ; adj ; 17
@@ -878,6 +953,7 @@ mikan ; みかん ; mandarine ; nom ; 16
 miki/kan ; 幹 ; tronc ; kanji ; 60
 mimi ; 耳 ; oreille ; kanji ; 39
 minna ; 皆 ; tout le monde, tous ; adv ; 36
+miokuri ; 見送り ; accompagner (pour départ) ; verbe ; 78 
 mise ; 店 ; magasin, commerce (aussi restaurant) ; kanji ; 6
 misete kudasai ; 見せて 下さい ; montrez s'il vous plait ; expr ; 17
 mitai ; みたい ; on dirait ; verbe ; 48
@@ -902,6 +978,7 @@ mono/sha ; 者 ; personne, gens ; kanji ; 43
 monogatari ; 物語 ; une histoire ; nom ; 43
 moppara ; もっぱら ; surtout, exclusivement ; adv ; 47
 moraimashita ; もらました ; avoir reçu (deg. moyen) ; verbe ; 31
+moraeru ; もらえる ; obtenir (infinitif) ; verbe ; 74
 moratta ; もらった ; avoir reçu (deg. moins) ; verbe ; 31
 mori ; 森 ; forêt ; kanji ; 50
 mori ; 守 ; garder, protéger ; kanji ; 18
@@ -918,6 +995,7 @@ mu/kô ; 向 ; tourné vers, dirigé vers ; kanji ; 24
 mukashi ; 昔 ; autrefois ; kanji ; 36
 mukai ; 向かい ; en face de ; adv ; 24
 mukae ; 迎え ; aller à la rencontre, ramasser ; verbe ; 27
+mukeru ; 向ける ; tourner (infinitif) ; verbe ; 75
 muki/baku ; 麦 ; céréales, blé, orge, avoine ; kanji ; 30 
 mukô ; 向こう ; là-bas ; adv ; 39
 munashiku ; 空しく ; vain ; adj ; 48
@@ -928,6 +1006,7 @@ musha musha ; むしゃ むしゃ ; miam-miam (onomatopée) ; expr ; 39
 mushiatsui ; 蒸し暑い ; être chaud et humide ; adj ; 60
 musuko ; 息子 ; mon fils ainé ; nom ; 26
 musuko san ; 息子 さん ; votre fils ainé ; nom ; 23
+musumesantachi ; 娘さんたち ; les filles ; nom ; 76
 muzukashii ; むずかしい ; être difficile ; adj ; 32
 myôji ; 名字 ; nom de famille ; nom ; 36
 myôgonichi ; 明後日 ; après-demain ; nom ; 53
@@ -971,40 +1050,51 @@ nara(bu)/hei ; 並 ; aligné en rang, arranger ; kanji ; 39
 narabimasu ; 並びます ; faire la queue ; verbe ; 39
 narabimashita ; 並びました ; avoir fait la queue ; verbe ; 39
 nara(u)/shû ; 習 ; étudier, acquérir des connaissances ; verbe ; 63
+narashimasu ; 鳴らします ; faire retentir (présent - deg. moyen) ; verbe ; 74
 narimasu ; なります ; devenir - présent (deg. moy.) ; verbe ; 22
 narimashita ; なりました ; être devenu (deg. moy.) ; verbe ; 26
 nasaimasu ; なさいます ; faire (deg. plus) ; verbe ; 47
 nasaimashita ; なさいました ; avoir fait (deg. plus) ; verbe ; 46
+nasasô ; なさそう ; ne pas sembler ; expr ; 81
 nasatte iru ; なさって いる ; vous faites (deg. plus) ; verbe ; 47
 natta ; なった ; être devenu (deg. moins) ; verbe ; 32 
 natte shimatta ; なって しまった ; devenir faire-jusqu'au-bout ; verbe ; 48
 narita ; 成田 ; Narita ; nom ; 27
 naru ; なる ; devenir - infinitif ; verbe ; 25
+narubeku ; なるべく ; autant que possibe ; adv ; 78
 natsu ; 夏 ; été (saison) ; kanji ; 30
+natsukashii ; 懐かしい ; nostalgique ; adj ; 78
 naze ; なぜ ; pourquoi ; adv ; 33
 ne ; ね ; [accord] ; part ; 1
 ne ; 寝 ; dormir, sommeil ; kanji ; 11
 nedan ; 値段 ; prix ; nom ; 65 
 neji ; ねじ ; vis ; nom ; 59
+nekaseru ; 寝かせる ; se coucher (infinitif) ; verbe ; 75
 neko ; 猫 ; chat ; kanji ; 50
 nemasu ; 寝ます ; dormir ; verbe ; 11
 nemusô ; 眠そう ; avoir l'air endormi ; verbe ; 39
 nen/toshi ; 年 ; année ; kanji ; 15
 nendai goto ; 年代 ごと ; par ordre chronologique ; nom ; 40
+nenshi ; 年始 ; jour de l'an ; nom ; 74
+nerareru ; 寝られる ; pouvoir dormir ; verbe ; 73
 ni ; に ; [lieu], [but], [temps] ; part ; 5
 ni dai ; 二台 ; deux (véhicules) ; num ; 34
+niau ; 似合う ; convenir, s'harmoniser (infinitif) ; verbe ; 78
+nido ; 二度 ; deux fois ; num ; 72
 ... ni ki o tsukete kudasai ; ...に 気 を つけて 下さい ; SVP prêtez attention à... ; expr ; 40
 ... ni kyômi ga arimasu ; ... に興味 が あります ; s'intéresser à ... ; expr ; 43
 ni/ka ; 荷 ; charge, fardeau ; kanji ; 27
 ni(ru)/ji ; 似 ; ressembler à ; kanji ; 39
-nitchû ; 日中 ; milieu de la journée ; nom ; 30
 nichi/sai/sei ; 西 ; ouest ; kanji ; 30
 nichiyobi ; 日曜日 ; dimanche ; nom ; 16
 nigiyaka ; にぎやか ; animé ; adj ; 51
 nihon ; 日本 ; Japon ; nom ; 18
+niku ; 肉 ; viande ; kanji ; 9
 nimotsu ; 荷物 ; bagages ; nom ; 27
 nimashita ; 似ました ; avoir ressemblé ; verbe ; 39
-niku ; 肉 ; viande ; kanji ; 9
+ninen ; 二年 ; deux ans ; num ; 78
+nitchû ; 日中 ; milieu de la journée ; nom ; 30
+nite ; 似て ; similaire ; adv ; 78
 niwa ; 庭 ; jardin ; kanji ; 34
 no ; の ; [relation] ; part ; 4
 no/ya ; 野 ; champ, plaine ; kanji ; 33
@@ -1013,6 +1103,7 @@ no(ru)/jô ; 乗 ; monter (dans un véhicule) ; kanji ; 31
 node ; ので ; parce que, puisque, comme ; adv ; 31
 no desu ; の です ; c'est que ; expr ; 34
 no deshô ; の でしょう ; je crois que c'est ; expr ; 39
+nochihodo ; 後ほど ; plus tard, ensuite ; adv ; 69
 nôgyô ; 農業 ; agriculture ; nom ; 63
 noko(ru)/zan ; 残 ; rester, subsister ; kanji ; 45
 nokotta ; 残った ; être resté ; verbe ; 45
@@ -1032,7 +1123,9 @@ nyûkyo ; 入居 ; entrée dans la maison ; nom ; 34
 nyûgaku ; 入学 ; entrée à l'université ; nom ; 38
 
 o; を ; [objet] ; part ; 2
+o kaeri nasai ; お 帰り なさい ; rentre / réponse à "tadaima" ; expr ; 73
 o kake kudasai ; お かけ 下さい ; asseyez-vous SVP ; expr ; 46
+o kan ; お かん ; [familiarité]-saké chaud ; nom ; 73
 oo/dai ; 大 ; grand ; kanji ; 9
 ô/ta ; 多 ; nombreux, abondant ; kanji ; 34
 ô ; 応 ; souscrire à, approprié, satisfaire ; kanji ; 66
@@ -1041,13 +1134,16 @@ obaa san ; お祖母 さん ; grand-mère ; nom ; 39
 ochiru ; 落ちる ; tomber (infinitif) ; verbe ; 48
 o daiji ni ; お 大事 に ; prenez soin de vous (pour les malades) ; expr ; 53
 odoroimasu ; 驚います ; être surpris ; verbe ; 39
+odo(ru)/yô ; 踊 ; danser ; kanji ; 76  
 ôi ; 多い ; être nombreux ; adj ; 34
 o-tomo-shimashô ; お供 します ; [politesse]-compagnon-faisons ; verbe ; 26 
 obo/kaku ; 覚 ; se souvenir, mémoriser, se rappeler, sentir ; kanji ; 36
-oboeru ; 覚える ; se souvenir ; verbe ; 36
+oboeru ; 覚える ; se souvenir, apprendre ; verbe ; 36
 obotchan ; お坊ちゃん ; votre petit garçon ; expr ; 15
 ogina(u)/ho ; 補 ; assister, compléter, suppléer ; kanji ; 58
 ohayô gozaimasu ; おはよう ございます ; bonjour (matin) ; expr ; 3
+oi ; 甥 ; mon neveu ; kanji ; 69 
+oigosan ; 甥御さん ; votre neveu ; nom ; 69
 oishii ; おいしい ; bon, délicieux ; adj ; 9
 oishikatta ; おいしかった ; était délicieux ; adj ; 30
 oishisô ; おいしそう ; avoir l'air délicieux ; adj ; 25
@@ -1055,15 +1151,18 @@ oite arimasu ; 置いて あります ; être posé ; verbe ; 40
 oji ; 伯父 ; oncle ; nom ; 32 
 ojii san ; お祖父 さん ; grand-père ; nom ; 39 
 ojôsan ; お嬢さん ; votre petite fille ; expr ; 15 
+okaasan ; お母さん ; Mère ; nom ; 71
 okage de ; おかげ ; grâce à ; adv ; 60
 okagemasa de ; おかげまさ で ; merci beaucoup (de prendre des nouvelles) ; expr ; 23
 o(ku)/chi ; 置 ; placer, mettre, établir ; kanji ; 40
 oka(su)/shin ; 侵 ; agresser, envahir ; kanji ; 43
 okashii ; おかしい ; être bizarre ; adj ; 59
+okureru ; 遅れる ; être en retard ; verbe ; 74
 oodoori ; 大通り ; rue principale ; nom ; 58
 ookii ; 大きい ; être grand ; adj ; 20
 ookisô ; 大きそう ; avoir l'air grand ; adj ; 25
 ookiku arimasen ; 大く ありません ;  ne pas être grand ; adj ; 21
+oosôji ; 大掃除 ; grand nettoyage ; nom ; 74
 okimasu ; 置きます ; mettre, poser (present - deg. moyen) ; verbe ; 54
 okimasu ; おきます ; faire à l'avance (deg. moyen) ; verbe ; 29
 okimasu ; 起きます ; se lever ; verbe ; 11
@@ -1077,10 +1176,12 @@ okusan ; 奥さん ; madame ; nom ; 59
 okutte ; おくって ; accompagner ; verbe ; 33
 oku(ru)/sô ; 送 ; envoyer ; kanji ; 61
 okurimasu ; 送ります ; envoyer (présent - deg. moyen) ; verbe ; 61
+o mae ; お 前 ; toi, tu (deg. moins) ; adv ; 73
 omedeto gozaimasu ; おめでとう ございます ; toutes mes félicitations ; expr ; 23
 omiyage ; おみやげ ; souvenir ; nom ; 6
 omo/shi ; 思 ; penser, croire ; kanji ; 25
 omo/shu ; 主 ; seigneur/principal ; kanji ; 25
+omoidasu ; 思い出す ; se souvenir ; verbe ; 74
 omoimasu ; 思います ; penser - présent (deg. moy.) ; verbe ; 25 
 [infinitif] to omoimasu ; [...] と 思います ; penser que [infinitif] ; expr ; 25
 omomuki/shu ; 趣 ; tendance, sens, ton, goût ; kanji ; 47 
@@ -1095,6 +1196,7 @@ onegai shitai ; おねがい したい ; je voudrais (demander) ; expr ; 44
 on'na ; 女 ; femme, fille ; kanji ; 15
 ongaku ; 音楽 ; musique ; nom ; 47
 ongakkai ; 音楽会 ; concert, fête de la musique ; nom ; 29
+oniisan ; お兄さん ; mon frère aîné ; nom ; 71
 opera ; オペラ ; opéra ; nom; 41
 oo(i)/ta ; 多 ; nombreux, abondant ; kanji ; 36
 ooi ; 多い ; être nombreux ; adj ; 36
@@ -1112,10 +1214,13 @@ osoku arimasen ; 遅く ありません ; ne pas être tard ; adj ; 21
 osokatta ; 遅かった ; était tard ; adj ; 11
 osu ; 押す ; presser ; verbe ; 46
 osutoraria ; オーストラリア ; Australie ; nom ; 38
+ôsutoria ; オーストリア ; Autriche ; nom ; 78
 oto ; 音 ; son, bruit ; kanji ; 24
 otona ; 大人 ; adulte ; nom ; 44
 otonashii ; おとなしい ; être gentil ; adj ; 54 
 otonashiku shite inasai ; おとなしく して いなさい ; sois sage, reste tranquille ; expr ; 54
+otôsan ; お父さん ; Père ; nom ; 71
+otosu ; 落とす ; faire tomber (deg. moyen) ; verbe ; 73
 ototoi ; おととい ; avant-hier ; nom ; 39
 otto/-bu/-fu/fû ; 夫 ; homme, mari ; kanji ; 27
 owari ; 終わり ; fin ; kanji ; 48
@@ -1127,6 +1232,7 @@ oyogu ; 泳ぐ ; nager ; verbe ; 30
 
 pan ; ﾊﾟﾝ ; pain ; nom ; 3
 panda ; パンダ ; panda ; nom ; 39
+paneru ; パネル ; panneau ; nom ; 76
 pari ; パリ ; Paris ; nom ; 55
 patokâ ; パトカー ; voiture de police (patrol car) ; nom ; 32
 pea ; ペア ; la paire ; nom ; 31
@@ -1150,11 +1256,13 @@ reitô ; 冷凍 ; congelé ; nom ; 48
 reizôko ; 冷蔵庫 ; réfrigérateur ; nom ; 59
 rekishi ; 歴史 ; l'Histoire ; nom ; 57
 rekôdo ; レコード ; disque (record) ; nom ; 47
+renraku ; 連絡 ; prise de contact ; nom ; 69
 renshû ; 練習 ; exercice, la pratique ; nom ; 47
 renshujô ; 練習場 ; terrain d'entraînement ; nom ; 52
 restsu ; 列 ; rang, file, queue ; kanji ; 68
 ressha ; 列車 ; train ; nom ; 68
 ressun ; レッスン ; leçon (lesson) ; nom ; 63
+reveiyon ; レヴェイヨン ; réveillon ; nom ; 74
 ri ; 理 ; raison, principe, logique ; kanji ; 9
 ri ; 利 ; bénéfice/gain/profit ; kanji ; 24
 ribingu ; リビング ; salon (living room) ; nom ; 34
@@ -1162,6 +1270,7 @@ rikkôhosha ; 立候補者 ; candidat ; nom ; 58
 ringo ; りんご ; pomme ; nom ; 3
 rippa ; 立派 ; sensationnel ; adj ; 62
 rishi ; 利子 ; intérêts (financiers) ; nom ; 45
+risô ; 理想 ; idéal ; adj ; 69
 ro ; 呂 ; colonne vertébrale ; kanji ; 62
 robotto ; ロボット ; robot ; nom ; 40
 roketto ; ロケット ; fusée ; nom ; 43
@@ -1180,6 +1289,7 @@ ryokan ; 旅館 ; auberge de jeunesse ; nom ; 31
 ryokô ; 旅行 ; voyage ; nom ; 31
 ryokôyô ; 旅行用 ; pour le voyage ; expr ; 65
 ryôshin ; 両親 ; parents ; nom ; 47
+ryûgakusei ; 留学生 ; étudiant étranger, boursier ; nom ; 78
 
 sâ ; さあ ; viens, bon ; expr ; 31
 sabishii ; 寂しい ; seul, mélancolique ; adj ; 48
@@ -1188,7 +1298,7 @@ sada(meru)/jô/tei ; 定 ; fixer, décider, régler / certain ; kanji ; 45
 sa(geru)/tei ; 提 ; porter en bandoulière ; kanji ; 31
 saga(su)/sô ; 捜 ; rechercher, enquêter, chasser ; kanji ; 34
 sagashite ; 捜して ; chercher ; verbe ; 34
-sai, toshi ; 歳 ; année-âge/durée ; nom ; 15
+sai/toshi ; 歳 ; année-âge/durée ; nom ; 15
 sai ; 再 ; encore ; kanji ; 15
 sai ; 栽 ; plantation ; kanji ; 66
 sairaishû ; 再来週 ; dans 2 semaines ; nom ; 46
@@ -1207,6 +1317,7 @@ sakkâ ; サッカー ; football (soccer) ; nom ; 52
 sakkyoku ; 作曲 ; composition ; nom ; 41
 sakkyokuga ; 作曲家 ; compositeur ; nom ; 41
 saku ; 昨 ; le passé, hier ; kanji ; 8
+sakunenchû ; 昨年中 ; au cours de l'année dernière ; expr ; 78
 sama ; さま ; Monsieur (formel) ; expr ; 44 
 samu(i)/kan ; 寒 ; froid (temps) ; kanji ; 60
 samui ; 寒い ; être froid (temps) ; adj ; 60
@@ -1219,8 +1330,10 @@ san/u(mu) ; 産 ; naissance, production ; kanji ; 34
 sando-uitchi ; サンドウィッチ ; sandwich ; nom ; 16
 sanga ; 参賀 ; hommage ; nom ; 68
 sanpo ; 散歩 ; promenade ; nom ; 31
+sara ; 皿 ; plat, assiète ; kanji ; 74 
 sararîman ; サラリーマン ; employé de bureau ; nom ; 52
 saru ; 猿 ; singe ; kanji ; 39
+sasetai ; させたい ; vouloir faire faire (présent) ; verbe ; 69
 saso/yû ; 誘 ; invitation ; kanji ; 16
 sasou ; 誘う ; inviter - infinitif ; verbe ; 26
 sasoimasu ; 誘います ; inviter - présent ; verbe ; 16
@@ -1228,17 +1341,21 @@ sasoimashô ; 誘いましょう ; invitons - impératif ; verbe ; 16
 saku ; 作 ; travail, fabrication ; kanji ; 18
 sassoku ; さっそく ; tout de suite ; adv ; 50
 sawa(ru)/shô ; 障 ; faire obstacle, interférer, affecter ; kanji ; 59
-se/sei/hai ; 背 ; dos, arrière, rebellion ; kanji ; 54
-somuku ; 背く ;  agir contre, désobéïr (infinitif) ; verbe ; 54
-somukeru ; 背ける ; détourner l'oeil  (infinitif) ; verbe ; 54
+se/sei/hai ; 背 ; dos, arrière, rebellion, taille ; kanji ; 54
+sechiryôri ; 節料理 ; cuisine du jour de l'an ; nom ; 74
 sei ; 製 ; production, fabrication ; kanji ; 40
+seifu ; 政府 ; gouvernement ; nom ; 78 
 seikaku ; 正確 ; exact(e), précis(e) ; adj ; 61
+seikatsu ; 生活 ; vie, manière de vivre ; nom ; 71
 seihin ; 製品 ; produit ; nom ; 40
 seizô ; 製造 ; fabrication ; nom ; 40
+sekai ; 世界 ; le monde ; nom ; 76
+sekaijû ; 世界中 ; dans le monde entier ; nom ; 76
 seki ; 戚 ; relation ; kanji ; 36
 seki ; 籍 ; immatriculation, registre ; kanji ; 38
 seki/sha ; 舎 ; auberge, maison, cottage ; kanji ; 36
 seki/kan ; 関 ; barrière ; kanji ; 4
+sekkaku ; せっかく ; occasion précieuse ; nom ; 72 
 sema ; 狭 ; étroit ; kanji ; 24
 semai ; 狭い ; être étroit ; adj ; 24
 sensô ; 戦争 ; guerre ; nom ; 18
@@ -1247,6 +1364,8 @@ sen ; 線 ; ligne, fil, rayon ; kanji ; 30
 sen ; 千 ; mille ; num ; 43
 sen ; 銭 ; un sen (petite monnaie) ; kanji ; 61
 senaka ; 背中 ; dos ; nom ; 54
+sengetsu ; 先月 ; mois dernier ; nom ; 73
+senketsu ; 先決 ; premier choix, urgence ; nom ; 76
 senkyo ; 選挙 ; élection ; nom ; 58
 sensei ; 先生 ; professeur ; nom ; 33
 senshû ; 先週 ; semaine dernière ; nom ; 29
@@ -1258,6 +1377,12 @@ setsu ; 説 ; opinion, vue, doctrine ; kanji ; 25
 setsu ; 節 ; période, moment, section ; kanji ; 39
 setsubi ; 設備 ; équipement ; nom ; 62
 setsumei ; 説明 ; explication, description ; nom ; 38
+settai ; 接待 ; réception ; nom ; 69
+sewa ; 世話 ; service rendu ; nom ; 78
+shaberi ; しゃべり ; bavard ; adj ; 73
+shakkin ; 借金 ; dettes ; nom ; 76
+shakôsei ; 社交性 ; sociabilité ; nom ; 69
+shamen ; 斜面 ; pente ; nom ; 75
 shanai ; 社内 ; intérieur du véhicule ; nom ; 60
 shanpen ; シャンペン ; champagne ; nom ; 47
 shashin ; 写真 ; photo ; nom ; 19
@@ -1293,9 +1418,12 @@ shiyô ; しよう ; faisons - impératif (deg. moins) ; verbe ; 54
 shin ; 真 ; vrai ; kanji ; 19
 shinai ; しない ; ne pas faire (deg. moins) ; verbe ; 27
 shinakereba narimasen ; しなければ なりません ; il faut faire, doit être fait ; expr ; 18 
+shinbun ; 新聞 ; journal ; nom ; 69
 shinimashita ; 死にました ; être (devenu) mort (deg. moyen) ; verbe ; 37 
+shinin ; 死人 ; un mort ; nom ; 75 
 shinkansen ; 新幹線 ; Shinkansen ; nom ; 60
 shinkonryokô ; 新婚旅行 ; voyage de noces ; nom ; 65
+shinnen ; 新年 ; nouvelle année ; nom ; 78
 shinpai ; 心配 ; inquiétude ; nom ; 27
 shinryaku ; 侵略 ; invasion, agression ; nom ; 43
 shinseki ; 親戚 ; parent ; nom ; 36
@@ -1312,6 +1440,8 @@ shisa/tai ; 退 ; retrait ; kanji ; 23
 shita ; 下 ; ci-dessous ; kanji ; 4
 shita ; 舌 ; langue ; kanji ; 46
 shita ; した ; avoir fait (deg. moins) ; verbe ; 13
+shitaku ; 支度 ; préparation ; nom ; 73
+shitakunai ; したくない ; ne pas vouloir faire ; verbe ; 76
 shite iru ; して いる ; être en train de faire (deg. moins.) ; verbe ; 42
 shite imasu ; して います ; être en train de faire (deg. moy.) ; verbe ; 12
 shite inai ; して いない ; ne pas être en train de faire (deg. moins) ; verbe ; 42
@@ -1325,7 +1455,7 @@ shiwa ; しわ ; ridé ; adj ; 39
 shiyôryô ; 使用料 ; taxe ; nom ; 45
 shizen ; 自然 ; la nature ; nom ; 36
 shîzun ; シーズン ; saison ; nom ; 10
-shizuka ; 静か ; calme ; adj ; 57
+shizuka ; 静か ; calme, tranquille ; adj ; 57
 ka/sho / -gaki ; 書 ; tracer, écrire ; kanji ; 22
 shô ; 紹 ; présentation ; kanji ; 15
 shô ; 証 ; preuve, témoignage ; kanji ; 38
@@ -1340,6 +1470,8 @@ shokuhin ; 食品 ; nourriture, produit ; nom ; 48
 shoku ; 職 ; emploi, métier, travail ; kanji ; 38
 shokugyô ; 職業 ; emploi, occupation ; nom ; 38
 shokuji ; 食事 ; le repas ; nom ; 26
+somuku ; 背く ;  agir contre, désobéïr (infinitif) ; verbe ; 54
+somukeru ; 背ける ; détourner l'oeil  (infinitif) ; verbe ; 54
 shorui ; 書類 ; documents, formulaires ; nom ; 38
 shôsetsu ; 小説 ; roman ; nom ; 25
 shujutsu ; 手術 ; chirurgie ; nom ; 53
@@ -1350,7 +1482,8 @@ shû ; 週 ; semaine ; kanji ; 23
 shujin ; 主人 ; mari, époux ; nom ; 41
 shujinkô ; 主人公 ; personnage principal, héros ; nom ; 25
 shûmatsu ; 週末 ; week-end ; nom ; 32
-shumi ; 趣味 ; passe-temps ; nom ; 47
+shumi ; 趣味 ; passe-temps, goûts ; nom ; 47
+shuto ; 首都 ; capitale ; nom ; 76
 sô ; そう ; ainsi, oui ; adv ; 1
 sô ; 相 ; réciproque, mutuel ; kanji; 10
 sô ; 急 ; dispute, se battre ; kanji ; 18 
@@ -1368,7 +1501,9 @@ sono ato ; その あと ; après cela ; expr ; 57
 sono/en ; 園 ; jardin ; kanji ; 24
 sonogo ; その後 ; alors, depuis ; adv ; 23
 sonomama ; そのまま ; tel quel ; adv ; 32
+sonoue ; その上 ; en outre ; adv ; 72
 sora,kû/kara/a(ku) ; 空 ; air, ciel/vide/être libre ; kanji ; 22
+sôrâ ; ソーラー ; solaire ; adj ; 76
 sore ; それ ; cela ; adv ; 4
 sorede ; それで ; alors ; adv ; 32
 soredemo ; それでも ; tout de même ; adv ; 11
@@ -1387,9 +1522,11 @@ sotsu ; 卒 ; serviteur ; kanji ; 23
 sotsu ; そつ ; suivre (infinitif) ; verbe ; 57
 sotsugyô ; 卒業 ; obtention d'un diplôme ; nom ; 23 
 subarashii ; すばらしい ; être splendide ; adj ; 30
+subete ; すべて ; tous ; adv ; 76
 sui ; 推 ; recommander, déduire ; kanji ; 25
 suichûmegane ; 水中眼鏡 ; lunettes sous-marines ; nom ; 54
 suiheisen ; 水平線 ; ligne horizontale, horizon ; nom ; 30
+suimin ; 睡眠 ; sommeil ; nom ; 73
 suiri ; 推理 ; présomption, conjecture ; nom ; 25 
 suiyôbi ; 水曜日 ; mercredi ; nom ; 16
 suitai ; すいたい ; être l'objet du désir, avoir envie ; expr ; 20 
@@ -1397,6 +1534,9 @@ sagata/shi ; 姿 ; forme, silhouette, apparence ; kanji ; 68
 sugiru ; 過ぎる ; passer ; verbe ; 48
 sugu ; すぐ ; bientôt, tout de suite ; adv ; 16
 suki ; 好き ; aimé ; adj ; 10
+sukî ; スキー ; ski ; nom ; 72
+sukima ; 隙間 ; fente, fissure ; nom ; 76
+sukkari ; すっかり ; complètement ; adv ; 78
 suko/shoo ; 少 ; peu ; kanji ; 26
 sukoshi ; 少し ; un peu ; adv ; 26
 sugoi ; すごい ; être formidable ; adj ; 32
@@ -1406,8 +1546,11 @@ sumô ; 相撲 ; sumo ; nom ; 10
 sumimasu ; 住みます ; habiter, vivre - présent (deg. moyen) ; verbe ; 34
 sumitai ; 住みたい ; vouloir habiter ; verbe ; 34
 su(mu)/jû ; 住 ; habiter, résider ; kanji ; 34
+su(mu)/chô ; 澄 ; se clarifier ; kanji ; 75
+su(masu) ; 澄 ; clarifier ; kanji ; 75 
 suna/sa ; 砂 ; sable ; kanji ; 54 
 sunde imasu ; 住んで います ; habiter, vivre - présent ; verbe ; 15
+sûnen ; 数年 ; plusieurs années ; nom ; 76
 supai ; スパイ ; espion (spy) ; nom ; 25
 supîdo ; スピード ; vitesse (speed) ; nom ; 32
 supîka ; スピーカー ; haut-parleur (speaker) ; nom ; 58
@@ -1419,6 +1562,7 @@ susu(mu)/-shin ; 進 ; avancer, progresser ; kanji ; 63
 susume ; すすめ ; conseil, recommandation ; nom ; 18
 susume shimasu ; すすめ します; conseiller, recommander ; verbe ; 18
 susumimasu ; 進みます ; avancer, progresser ; verbe ; 63
+suteki ; すてき ; adorable ; adj ; 74
 suwa(ru)/za ; 座 ; s'asseoir ; kanji ; 45
 suwarimasu ; 座ります ; s'assoir (présent - deg. moy) ; verbe ; 54
 suzushi ; 涼しい ; être frais ; adj ; 60
@@ -1431,12 +1575,14 @@ tabemasu ; 食べます ; manger - présent ; verbe ; 3
 tabemasen ; 食べません ; ne pas manger - présent ; verbe ; 3
 tabemashô ; 食べましょう ; mangeons ; verbe ; 9
 tabemono ; 食べ物 ; aliment, nourriture ; nom ; 53
+taberaremasu ; 食べられます ; pouvoir manger ; verbe ; 73
 tabesugi ; べすぎ ; trop manger ; verbe ; 46
 tabetai ; 食べたい ; avoir envie de manger ; verbe ; 29
 tabi/ryo ; 旅 ; voyage ; nom ; 31
 tabitabi ; 度々 ; souvent ; adv ; 45
 tada ; ただ ; juste ; adv ; 46
 tada(shii)/sei/shô ; 正 ; juste, exact, correct ; kanji ; 44
+tadaima ; ただいま ; bonsoir ! (je rentre) ; expr ; 73
 taihen ; 大変 ; terrible, extrème ; adj ; 11
 taikutsu ; 退屈 ; l'ennui ; nom ; 55
 tai in ; 退 院 ; sortie d'hôpital ; expr ; 23
@@ -1449,6 +1595,7 @@ takaku arimasen ; 高く ありません ; ne pas être cher ; adj ; 21
 takakatta ; 高かった ; était cher ; adj ; 5
 taku ; 濯 ; lavage, rinçage ; kanji ; 59
 takusan ; たくさん ; beaucoup ; adv ; 6
+tama ; たま ; de temps en temps ; adv ; 73
 tama/kyû ; 球 ; boule, sphère ; kanji ; 43
 tama/rei/ryô ; 霊 ; esprit, fantôme, âme ; kanji ; 67
 tamago ; 卵 ; oeuf ; kanji ; 3
@@ -1490,12 +1637,15 @@ ten ; 展 ; exposition ; kanji ; 2
 ten ; 点 ; point, signe, marque ; kanji ; 32
 ten ; 天 ; ciel ; kanji ; 16
 tenki ; 天気 ; temps, météo ; nom ; 16 
+tenkin ; 転勤 ; changement de poste, mutation ; nom ; 69
 tennô ; 天皇 ; Empereur ; nom ; 68
 tenpura ; てんぷら ; tempura (beignets) ; nom ; 29
+tento ; テント ; tente ; nom ; 75
 tera/ji ; 寺 ; temple, monastère bouddhique ; kanji ; 57
 terebi ; テレビ ; télévision ; nom ; 10
 tesage kaban ; 手提 鞄 ; sac fourre-tout ; nom ; 31
 tetsu ; 鉄 ; fer, acier ; kanji ; 31
+tetsudau ; 手伝う ; aider (infinitif) ; verbe ; 74
 tô ; 頭 ; pour compter les gros animaux ; kanji ; 39
 to ; と ; et, [citation], quand/lorsque (préc. deg. moins) ; adv ; 4
 ... to wa dô iu imi desu ka ; ... と は どう いう 意味 です か ; que veut dire ... ? ; expr ; 38 
@@ -1503,7 +1653,7 @@ tochiji ; 都知事 ; maire de Tokyo ; nom ; 58
 todokorô(u)/tai ; 滞 ; rester, séjourner ; kanji ; 38 
 tôka ; 十日 ; 10-jours ; num ; 61
 toki ; 時 ; temps, moment ; kanji ; 11
-toki doki ; 時々 ; parfois, quelques fois ; adv ; 10
+tokidoki ; 時々 ; parfois, quelques fois ; adv ; 10
 tokoro/-jo/-sho ; 所 ; endroit ; kanji ; 27
 tokoro ; ところ ; à propos ; adv ; 50
 toku ; 特 ; spécial ; kanji ; 47 
@@ -1522,6 +1672,7 @@ tô/hito ; 等 ; classe, degré, égalité ; kanji ; 47
 to(bu)/hi ; 飛 ; voler ; kanji ; 27  
 tobiutsute imasu ; 飛び移って います ; sauter d'un endroit à l'autre ; verbe ; 39 
 tobitatsu ; 飛び立つ ; décoller ; verbe ; 43
+tochû ; 途中 ; sur le chemin ; nom ; 75
 tooi ; 遠い ; être loin ; adj ; 20
 tooru ; 通る ; parcourir, passer (infinitif) ; verbe ; 57
 toorimasu ; 通ります ; parcourir (présent - deg. moyen) ; verbe ; 57
@@ -1529,10 +1680,14 @@ toka ; とか ; ou bien ; adv ; 36
 tôku arimasen ; 遠く ありません ; ne pas être loin ; adj ; 21
 toranku ; トランク ; coffre, valise ; nom ; 4
 tori ; 鳥 ; oiseau ; kanji ; 50
+torimasu ; 取ります ; prendre (deg. moyen) ; verbe ; 73
 torimashita ; 取りました ; avoir pris ; verbe ; 46 
 torimashô ; とりましょう ; prenons, commandons ; verbe ; 9 
 to(ru)/shi ; 取 ; prendre, saisir ; kanji ; 59
+toshidama ; 年玉 ; étrennes ; nom ; 74
 totemo ; とても ; très ; adv ; 9
+totono(u) ; 整(う)/sei ; être en ordre, être réuni ; verbe ; 74
+totonoeru ; 整える ; mettre en ordre ; verbe ; 74
 totte ; 取って ; prendre ; verbe ; 29
 to(u)/mon ; 問 ; interroger, questionner ; kanji ; 40
 tsu ; 都 ; circonstance ; kanji ; 19
@@ -1550,10 +1705,13 @@ tsuka/shi ; 使 ; utiliser, employer ; kanji ; 31
 tsukaimasu ; 使います ; utiliser, employer (présent - deg. moyen) ; verbe ; 43
 tsukaeru ; 使える ; pouvoir utiliser ; verbe ; 34
 tsukaemasu ; 仕えます ; servir ; verbe ; 37
+tsukare ; 疲れ ; fatigue ; nom ; 73
+tsukareta ; 疲れた ; fatigué ; adj ; 75
 tsukatte ; 使って ; employer ; verbe ; 31
 tsukamatte ; 捕まって ; être attrapé ; verbe ; 32
 tsukeppanashi ; つけっぱなし ; laissé ouvert/allumé ; verbe ; 47
 tsuketa ; つけた ; avoir mis, avoir attaché (deg. moins) ; verbe ; 36
+tsukemasu ; つけます ; mettre (deg. moyen) ; verbe ; 73
 tsukeyô ; つけよう ; mettons, attachons (deg. moins) ; verbe ; 36
 tsuki ; つき ; ajdoint, attaché ; adj ; 34
 tsuki/gatsu ; 月 ; la lune / le mois ; kanji ; 43
@@ -1567,6 +1725,8 @@ tsukutta ; 作った ; avoir fabriqué (deg. moins) ; verbe ; 33
 tsukurenaku ; 作れなく ; ne pas pouvoir fabriquer ; verbe ; 41 
 tsuma/sai ; 妻 ; épouse, femme ; kanji ; 34 
 tsumaranai ; つまらない ; être ennuyeux ; adj ; 55
+tsumarakatta ; つまらなかった ; était ennuyeux ; adj ; 74
+tsumari ; つまり ; en d'autres termes ; expr ; 75
 tsumetai ; 冷たい ; être très froid ; adj ; 54
 tsumori (desu) ; つもり (です) ; (avoir l')intention ; verbe ; 25
 tsune/jô ; 常 ; habituel, normal ; kanji ; 50
@@ -1590,19 +1750,25 @@ uchû ; 宇宙 ; espace ; nom ; 43
 ue ; 上 ; (ci-)dessus, sur ; kanji ; 23
 ugo/dô ; 動 ; bouger, se déplacer ; kanji ; 23
 ugokashite imasu ; 動かして います ; faire bouger ; verbe ; 40
+uîkuendo ; ウイークエンド ; week-end ; nom ; 72
 ukagaimasu ; うかがいます ; venir (deg. plus) ; verbe ; 59
 ukagaimashita ; うかがいました ; avoir entendu/appris ; verbe ; 47 
 ukande ; 浮かんで ; flotter ; verbe ; 48
 uketorimasu ; 受け取ります ; recevoir (présent - deg. moyen) ; verbe ; 61
 uma/go ; 午 ; midi ; kanji ; 11
+umaku ; うまく ; de façon réussie ; adj ; 75 
 umareru ; 生まれる ; naître (infinitif) ; verbe ; 39
 umareta ; 生まれた ; être né (deg. moins) ; verbe ; 38
 umaremashita ; 生まれました ; être né (deg. moyen) ; verbe ; 38
 umi ; 海 ; mer ; kanji ; 30
+un ; うん ; d'accord ; expr ; 73
 un ; 運 ; destin, sort, chance, transport ; kanji ; 58  
 undo ; 運動 ; mouvement, exercice ; nom ; 58
 ura ; 裏 ; envers, retour, dessous ; adv ; 17 
 uramayashii ; うらまやしい ; être envieux ; adj ; 30
+ureshii ; 嬉しい ; content, heureux ; adj ; 74
+ureshikatta ; 嬉しかった ; était content ; adj ; 74
+ureshisô ; 嬉しそう ; avoir l'air content/heureux ; adj ; 74
 uru ; 売る ; vendre ; verbe ; 48
 urimasu ; 売ります ; vendre - présent (deg. moyen) ; verbe ; 54
 urusai ; うるさい ; être bruyant ; adj ; 24
@@ -1619,16 +1785,21 @@ utsushi ; 写 ; copie ; kanji ; 19
 wa ; は ; [annonce], [renforcement] ; part ; 11
 wa ; 和 ; calme, paix, harmonie ; kanji ; 18 
 wakarete ; 別れて ; rompre, séparer ; verbe ; 34
+wakaranakatta ; わからなかった ; ne pas avoir compris ; verbe ; 71
 wakaranakute mo ; わからなくて も ; même si ne pas être compréhensible ; verbe ; 63 
 wakarimasu ; わかります ; comprendre ; verbe ; 11
 wakarimashita ; わかりました ; avoir compris ; verbe ; 1
 waka(reru)/betsu ; 別 ; séparé, distinct ; adj ; 62
 wake/yaku ; 訳 ; raison, sens circonstances/traduction ; kanji ; 33
 wakusei ; 惑星 ; planète ; nom ; 43
+wa(ku)/futsu ; 沸 ; bouillir ; kanji ; 73
+wakasu ; 沸かす ; faire bouillir ; verbe ; 73
+wani ; 鰐 ; crocodile ; nom ; 76
 warideshô ; 割りでしょう ; partager, diviser (impératif) ; verbe ; -1
 waru ; 悪 ; le mal ; kanji ; 26
 warui ; 悪い ; être mauvais ; adj ; 19
 waruku ; 悪く ; mauvais ; adj ; 26
+warukunai ; 悪くない ; ne pas être mauvais ; adj ; 71
 warumono ; 悪者 ; mauvaise personne ; nom ; 43
 washitsu ; 和室 ; pièce principale ; nom ; 34
 wasu ; 忘 ; oubli ; kanji ; 8
@@ -1638,7 +1809,7 @@ wata(ru)/to / wata(su) ; 渡 ; traverser, passer / rendre, donner ; kanji ; 36
 watakushi ; 私 ; moi ; kanji ; 9
 watakushi domo ; 私 共 ; nous (formel) / notre société ; expr ; 40
 watashi tachi ; 私達 ; nous ; adv ; 39
-wazawaza ; わざわざ ; en se donnant la peine ; expr ; 61
+wazawaza ; わざわざ ; en se donnant la peine, exprès ; expr ; 61
 
 ya/oku ; 屋 ; maison, toit, magasin, boutique ; kanji ; 34
 yachin ; 家賃 ; loyer ; nom ; 24
@@ -1649,6 +1820,7 @@ yakusoku ; 約束 ; rendez-vous, promesse ; nom ; 13
 yakyû ; 野球 ; baseball ; nom ; 52
 yama ; 山 ; montagne ; kanji ; 12
 yamai/byô/hei / ya(mu) ; 病 ; maladie / souffrir ; kanji ; 41 
+yamagoya ; 山小屋 ; chalet de montagne, refuge ; nom ; 72
 yamemasu ; やめます ; arrêter, abandonner ; verbe ; 5
 yamemashô ; やめましょう ; arrêtons (deg. moyen) ; verbe ; 21
 yameyô ; やめよう ; arrêtons (deg. moins) ; verbe ; 19
@@ -1656,6 +1828,7 @@ yappari ; やっぱり ; après tout, comme prévu ; adv ; 67
 yarareta ; やられた ; avoir été pris (deg. moins) ; verbe ; 17
 yararemashita ; やられました ; avoir été pris (deg. moyen) ; verbe ; 21
 yarikata ; やり方 ; façon de faire, manière ; nom ; 58
+yaru ; やる ; faire pour toi ; verbe ; 76
 yashiro/sha ; 社 ; association, compagnie ; kanji ; 23
 yasui ; 傘い ; être bon marché ; adj ; 31
 yasu/an ; 安 ; pas cher/tranquille, calme ; kanji ; 23
@@ -1667,6 +1840,7 @@ yatte iru ; やって いる ; faire (deg. moins) ; verbe ; 29
 yatto ; やっと ; enfin ; adv ; 24
 yo ; よ ; [engagement] ; part ; 2
 yoi ; よい ; être bien ; adj ; 20
+yokatta ; 良かった ; était bien ; adj ; 74
 yoku arimasen ; よく ありません ; ne pas être bien ; adj ; 20
 yô ; よう ; état ; adj ; 63
 yô ; 曜 ; jour de le semaine ; kanji ; 16
@@ -1683,6 +1857,7 @@ yoko ; 横 ; côté, flanc ; kanji ; 31
 yoku ; よく ; bien ; adj ; 8
 yoku ; 翌 ; suivant (dans le temps) ; kanji ; 45  
 yokujitsu ; 翌日 ; le lendemain ; nom ; 45 
+yokunai ; よくない ; ne pas être bien ; adj ; 75 
 yomu ; 読む ; lire (infinitif) ; verbe ; 63
 yomeru ; 読める ; pouvoir lire ; verbe ; 63
 yomitai ; 読みたい ; vouloir lire ; verbe ; 63
@@ -1691,6 +1866,7 @@ yonkai ; 四階 ; 3ème étage ; num ; 24
 yonaka ; 夜中 ; pleine nuit, minuit ; nom ; 11
 yopparatta ; 酔っ払った ; s'être enivré ; verbe ; 48
 yorokobi ; 喜び ; plaisir ; kanji ; 39
+yôroppa ; ヨーロッパ ; Europe ; nom ; 73
 yoroshii ; よろしい ; être bien ; adj ; 23
 yoroshiku ; よろしく ; bon ; adv ; 27
 yoroshiku onegai shimasu ; よろしく おねがい します ; je compte sur vous ; expr ; 44
@@ -1713,15 +1889,19 @@ yû bin ; 郵便 ; courrier ; nom ; 22
 yû bin kyoku ; 郵便局 ; bureau de poste ; nom ; 22
 yû/seki ; 夕 ; soir, soirée ; kanji ; 33
 yûbe ; 夕べ ; soirée ; nom ; 61
+yubiwa ; 指輪 ; anneau ; nom ; 76
 yubune ; 湯槽 ; bain d'eau chaude ; nom ; 62
 yue/ko ; 故 ; circonstances ; kanji ; 23
 yui ; 結 ; conclusion ; kanji ; 15
+yûjin ; 友人 ; ami ; nom ; 69
+yuki ; 雪 ; la neige ; nom ; 72
 yukkuri ; ゆっくり ; lentement ; adv ; 39
 yume ; 夢 ; rêve ; kanji ; 50
 yûmei ; 有名 ; célèbre ; adj ; 37 
 yumenonakade ; 夢の中で ; dans un rêve ; expr ; -1
 yûgata ; 夕方 ; la soirée, le soir ; nom ; 33
 yûryô ; 有料 ; payant ; adj ; 32
+yûshoku ; 夕食 ; dîner ; nom ; 73
 yûyake ; 夕焼け ; coucher de soleil ; nom ; 48
 
 zannen ; ざんねん ; dommage ; adj ; 19
@@ -1735,6 +1915,7 @@ zen ; 全 ; complètement, entièrement ; kanji ; 24
 zen ; 然 ; être ainsi, état naturel ; kanji ; 36
 zenbu ; 全部 ; complètement, tous ; adv ; 31
 zenjidô ; 全自動 ; entèrement automatique ; adj ; 65
+zensekai ; 全世界 ; monde entier ; nom ; 76
 zenzen ; 全然 ; absolument pas, pas du tout ; adv ; 24
 zô ; 像 ; forme, portrait, figure ; kanji ; 33
 zô ; 象 ; éléphant ; kanji ; 39
